@@ -1,38 +1,25 @@
-# 𝐇𝐞𝐥𝐥𝐨,
+<h1 style="display: flex; justify-content: center; font-family: sans-serif">Greetings, i'm Gabriel</h1>
+
+<p style="display: flex; justify-content: center; text-align: center; font-family: sans-serif">I'm a Front-end developer studying Systems Analysis and Development. I stand out for my ability to adapt quickly, focused and flexible. I communicate effectively, collaborate well within a team and see problems as opportunities for growth.</p>
+
+#
+
+<h3 style="display: flex; justify-content: center; font-family: sans-serif">CONTACTS</h3>
 
 [![LINKEDIN](https://img.shields.io/badge/Gabriel%20Felix-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielfelxx)
 [![GMAIL](https://img.shields.io/badge/gabrielfelxx@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielfelxx@gmail.com)
 
-<img align='center' src='https://media.giphy.com/media/L0ewqyJhQXX9yPfJf8/giphy.gif' width='250"'>
+#
 
-## Skills:
+<h3 style="display: flex; justify-content: center; font-family: sans-serif">SKILLS</h3>
 
-<div style="display: inline_block">
-    <a align="center" href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-    <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-    </a>
-    <a align="center" href="https://www.typescriptlang.org/docs/">
-    <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-    </a>
-    <a align="center" href="https://vuejs.org/guide/introduction">
-    <img alt="vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-    </a>
-    <a align="center" href="https://react.dev/learn">
-    <img alt="reactjs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    </a>
-    <a align="center" href="https://reactnative.dev/docs/getting-started">
-    <img alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    </a>
-    <a align="center" href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-    <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    </a>
-    <a align="center" href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-    <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    </a>
-    <a align="center" href="https://tailwindcss.com/docs/installation">
-    <img alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-    </a>
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,vue,react,redux,tailwind,jest,html,css,python,flask,git,github,scss" />
+  </a>
+</p>
+
+<div style="display: flex; justify-content: center;"> <img style="display: flex; justify-content: center;" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamI3NXo3OGd5NWV5MGIzOXBwdmY1cWc1NG53dHhyeDh5YTJ4dXJuZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="250"></div>
 
 </br>
-"The only source of knowledge is experience." - Albert Einstein
+<p style="display: flex; justify-content: center; font-family: sans-serif">"The only source of knowledge is experience." - Albert Einstein</p>
