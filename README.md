@@ -1,77 +1,90 @@
-# Gabriel Felix
+<div align="center">
 
-**`Full Stack Software Developer`**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:334155&height=140&section=header&text=Gabriel%20Felix&fontColor=f8fafc&fontSize=44&fontAlignY=38&desc=Software%20Engineer&descSize=16&descAlignY=60" alt="Gabriel Felix" />
 
-I'm a software developer pursuing a degree in Systems Analysis and Development. I excel in adapting quickly, staying focused and flexible in fast-paced environments. Effective communication, teamwork, and a growth mindset are core to my approach. I'm currently expanding my skills by studying Ruby on Rails and its associated gems, enhancing my software development expertise.
+<a href="https://github.com/gabrielfel1x">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=1200&color=64748B&center=true&vCenter=true&width=520&lines=React+%C2%B7+React+Native+%C2%B7+Flutter;Java+%C2%B7+Spring+Boot+%C2%B7+Docker;3+years+shipping+web+%26+mobile+products" alt="Typing SVG" />
+</a>
 
+<br/>
 
-_"The only source of knowledge is experience." - Albert Einstein_
+<a href="https://www.linkedin.com/in/gabrielfel1x"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:gabrielfelxx@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://komarev.com/ghpvc/?username=gabrielfel1x&style=flat-square&color=334155&label=PROFILE+VIEWS" alt="Profile views"/>
 
-#
+</div>
 
+<br/>
 
-## 📊 Statistics
+## About
 
-<img
-    alt="GitHub Stats"
-    height="190"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats-pearl-nine-64.vercel.app/api?username=gabrielfel1x&show_icons=true&theme=catppuccin_latte&include_all_commits=true&count_private=true&cache_seconds=1800&locale=pt-br"
-/><img
-    alt="Top Languages"
-    height="190"
-    src="https://github-readme-stats-pearl-nine-64.vercel.app/api/top-langs/?username=gabrielfel1x&theme=catppuccin_latte&layout=compact&custom_title=Tecnologias&count_private=true&langs_count=9&cache_seconds=1800"
-/>
+Software engineer with 3 years building web and mobile products, focused on architecture, quality and code that stays easy to change. I work test-first (TDD), care about async flows and clean boundaries, and use AI agents as a copilot for development, analysis and code review.
 
-## 🛠️ Technologies
+Graduated in Systems Analysis and Development at **UFC**.
 
-### 🎨 Frontend
+## Now
 
-<p>
-<img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5&logoColor=white" height="36"/>
-<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" height="36"/>
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" height="36"/>
-<img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" height="36"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="36"/>
-<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" height="36"/>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" height="36"/>
+- 🏢 **Mid Level Software Engineer @ RoboticTech**: PPE detection and monitoring system (Next.js + TypeScript + computer vision APIs), Spring Boot services, Docker and Keycloak. Cut response time by **68%** in legacy AngularJS modules.
+- 📱 **Versa Delivery** (SaaS, independent): React Native + Expo app live on App Store and Google Play, plus a Next.js admin panel with real-time kanban, POS and PIX billing.
+
+## Selected work
+
+| Project | What it is | Stack |
+| :-- | :-- | :-- |
+| **Versa Delivery** | Delivery SaaS: customer and merchant app, admin panel with real-time kanban, POS and PIX. 62 Playwright E2E tests. | React Native, Expo 54, Next.js 15, React 19, Tailwind 4, shadcn/ui |
+| **PrimeTech habit app** | Led mobile development of a gamified habit-building app for an institution. MVVM, async services and API integration. | Flutter, Dart |
+| **iMart** | Market management system: barcode stock control, sales and live dashboards over WebSockets. | React, React Native, TanStack Query, Rails |
+| **[versamobile](https://github.com/gabrielfel1x/versamobile)** | Public mobile client of Versa. | TypeScript, Expo |
+| **[portfolio](https://github.com/gabrielfel1x/portfolio)** | Personal site. | TypeScript |
+
+## Stack
+
+<table>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vue,angular,tailwind&theme=light" alt="frontend"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Mobile</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=flutter,dart,react,firebase&theme=light" alt="mobile"/>
+      <sub>&nbsp;React Native · Expo · EAS</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=java,spring,python,rails&theme=light" alt="backend"/>
+      <sub>&nbsp;Keycloak · OAuth 2.0 / OIDC</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>State &amp; async</b></td>
+    <td><sub>TanStack Query · Zustand · Redux · Context API · Future / Stream</sub></td>
+  </tr>
+  <tr>
+    <td><b>Quality</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=jest,vitest,playwright&theme=light" alt="tests"/>
+      <sub>&nbsp;TDD · unit tests · code review</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,docker,githubactions&theme=light" alt="devops"/>
+      <sub>&nbsp;CI/CD</sub>
+    </td>
+  </tr>
+</table>
+
+## Activity
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-pearl-nine-64.vercel.app/api?username=gabrielfel1x&show_icons=true&theme=catppuccin_latte&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats-pearl-nine-64.vercel.app/api/top-langs/?username=gabrielfel1x&theme=catppuccin_latte&layout=compact&count_private=true&langs_count=8&hide_border=true&cache_seconds=1800" alt="Top languages"/>
 </p>
 
-### 🛠️ Backend
-
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="36"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="36"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" height="36"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white" height="36"/>
-</p>
-
-### 📱 Mobile
-<p>
-<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="36"/>
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" height="36"/>
-</p>
-
-### 🧪 Test
-<p>
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" height="36"/>
-<img src="https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white" height="36"/>
-</p>
-
-### 🗄️ Database
-
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="36"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="36"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="36"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="36"/>
-</p>
-
----
-
-## ✉️ Contacts
-
-<p>
-<a href = mailto:gabrielfelxx@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23990000?style=for-the-badge&logo=gmail&logoColor=white" height="36"></a>
-<a href="https://www.linkedin.com/in/gabrielfel1x" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="36"></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,100:0f172a&height=80&section=footer" width="100%" alt=""/>
