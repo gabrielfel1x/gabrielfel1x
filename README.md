@@ -83,8 +83,8 @@ Graduated in Systems Analysis and Development at **UFC**.
 ## Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-pearl-nine-64.vercel.app/api?username=gabrielfel1x&show_icons=true&theme=catppuccin_latte&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats-pearl-nine-64.vercel.app/api/top-langs/?username=gabrielfel1x&theme=catppuccin_latte&layout=compact&count_private=true&langs_count=8&hide_border=true&cache_seconds=1800" alt="Top languages"/>
+  <img height="170" src="https://github-readme-stats-pearl-nine-64.vercel.app/api?username=gabrielfel1x&show_icons=true&theme=catppuccin_latte&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub stats"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=gabrielfel1x&theme=default&hide_border=true&background=EFF1F5&ring=1E66F5&fire=FE640B&currStreakLabel=1E66F5" alt="GitHub streak"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,100:0f172a&height=80&section=footer" width="100%" alt=""/>
