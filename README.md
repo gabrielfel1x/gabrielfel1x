@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:334155&height=140&section=header&text=Gabriel%20Felix&fontColor=f8fafc&fontSize=44&fontAlignY=38&desc=Software%20Engineer&descSize=16&descAlignY=60" alt="Gabriel Felix" />
 
 <a href="https://github.com/gabrielfel1x">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=1200&color=64748B&center=true&vCenter=true&width=520&lines=React+%C2%B7+React+Native+%C2%B7+Flutter;Java+%C2%B7+Spring+Boot+%C2%B7+Docker;3+years+shipping+web+%26+mobile+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=1200&color=64748B&center=true&vCenter=true&width=520&lines=React+%C2%B7+Next.js+%C2%B7+React+Native;Java+%C2%B7+Spring+Boot+%C2%B7+Docker;3+years+shipping+web+%26+mobile+products" alt="Typing SVG" />
 </a>
 
 <br/>
