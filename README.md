@@ -34,8 +34,8 @@ Graduated in Systems Analysis and Development at **UFC**.
 | **Versa Delivery** | Delivery SaaS: customer and merchant app, admin panel with real-time kanban, POS and PIX. 62 Playwright E2E tests. | React Native, Expo 54, Next.js 15, React 19, Tailwind 4, shadcn/ui |
 | **PrimeTech habit app** | Led mobile development of a gamified habit-building app for an institution. MVVM, async services and API integration. | Flutter, Dart |
 | **iMart** | Market management system: barcode stock control, sales and live dashboards over WebSockets. | React, React Native, TanStack Query, Rails |
-| **[versamobile](https://github.com/gabrielfel1x/versamobile)** | Public mobile client of Versa. | TypeScript, Expo |
-| **[portfolio](https://github.com/gabrielfel1x/portfolio)** | Personal site. | TypeScript |
+| **[versa-mobile](https://github.com/gabrielfel1x/versa-mobile)** | Public mobile client of Versa. | TypeScript, Expo |
+| **[portfolio-site](https://github.com/gabrielfel1x/portfolio-site)** | Personal site. | TypeScript |
 
 ## Stack
 
